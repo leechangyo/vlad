@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_flann.dir/test_flann.cpp.o  -o test_flann  -Wl,-rpath,/home/chan/VLAD-in-OpenCV/build/third_party/DBow3/src ../src/libimage_retrieval.so.SOVERSION 

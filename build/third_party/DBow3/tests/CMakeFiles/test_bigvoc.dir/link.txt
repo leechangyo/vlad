@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_bigvoc.dir/test_bigvoc.cpp.o  -o test_bigvoc  -Wl,-rpath,/home/chan/VLAD-in-OpenCV/build/third_party/DBow3/src ../src/libimage_retrieval.so.SOVERSION 
